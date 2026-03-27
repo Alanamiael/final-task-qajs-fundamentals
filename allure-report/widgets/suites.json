@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"bf0c63d7af7a1cb3f81b51088ecf7a5f","name":"UC-2 Cart State Logic","statistic":{"failed":0,"broken":9,"skipped":0,"passed":4,"unknown":0,"total":13}},{"uid":"830c93c53a57578d49b4c707fc74f9b4","name":"UC-1 Sorting Validation","statistic":{"failed":0,"broken":4,"skipped":0,"passed":4,"unknown":0,"total":8}}]}
