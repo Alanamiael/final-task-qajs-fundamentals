@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "wdio run src/config/wdio.conf.js",
     "wdio": "wdio run src/config/wdio.conf.js",
     "lint": "eslint src/ --config src/config/eslint.config.mjs",
     "lint:fix": "eslint src/ --fix --config src/config/eslint.config.mjs",

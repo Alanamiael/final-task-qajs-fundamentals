@@ -10,7 +10,7 @@ class LoginPage {
     return $('//input[@id="login-button"]');
   }
   async open() {
-    await browser.url("https://www.saucedemo.com");
+    await browser.url("/");
   }
   async login(username = "standard_user", password = "secret_sauce") {
     await this.usernameInput.setValue(username);

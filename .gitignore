@@ -1,5 +1,10 @@
 node_modules/
 logs/
 allure-results/
-#allure-report/
+allure-report/
 *.config.js
+.DS_Store
+.env
+.vscode/
+.idea/
+*.log
